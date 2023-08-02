@@ -1,5 +1,6 @@
 # SoftCPS - Software Technologies for Cyber-Physical Systems
 
+## About Us 👋 
 Software for Cyber Physical Systems (SoftCPS) is a research group at the School of Engineering of the Polytechnic of Porto (ISEP) and is also part of the Human-Centered 
 Computing and Information Science (HumanISE) research centre within INESC TEC.
 
